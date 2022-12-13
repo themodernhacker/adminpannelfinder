@@ -1,6 +1,6 @@
 # adminpannelfinder
 You can find the admin login page from this tool.
-# How yoy can run this program-
+# How you can run this program-
 
 Step 1-
  git clone https://github.com/themodernhacker/adminpannelfinder.git
