@@ -14,4 +14,4 @@ Step 1-
  Step 4-
  python3 findmyadmin.py
  
- Thankk You So Much
+ Thank You So Much
